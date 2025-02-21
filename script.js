@@ -1,6 +1,9 @@
-const fontButton = document.getElementById("fontControl");
-const colorButton = document.getElementById("colorControl");
+const button = document.getElementById("beggingButton");
 
-function changeColor() {
+document.addEventListener("click", buttonClick);
+
+
+function buttonClick() {
+    document.getElementById("beggingButton").innerHTML = "Thank you... I appreciate you...";
     
 }

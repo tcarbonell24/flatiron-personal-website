@@ -22,11 +22,3 @@ div#paragraphContents {
     padding-bottom: 5px;
 }
 
-div.controls > div{
-    border-style: solid;
-    border-color: black;
-    border-width: 1%;
-    background-color: white;
-    width:49%;
-    float: left;
-}
