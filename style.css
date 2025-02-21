@@ -1,11 +1,16 @@
+html {
+    height:100%;
+    min-height: 100%;
+}
+
+/* sets the format for majority of site */
 body {
-    background: green
-}
-
-body h1#name {
+    background: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px;
     text-align: center;
 }
 
-body div#bio {
-    text-align: center;
+div.content{
+    background-color: white;
 }
