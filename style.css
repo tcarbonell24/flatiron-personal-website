@@ -12,5 +12,21 @@ body {
 }
 
 div.content{
+    background-color: white;    
+}
+
+div#paragraphContents {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+div.controls > div{
+    border-style: solid;
+    border-color: black;
+    border-width: 1%;
     background-color: white;
+    width:49%;
+    float: left;
 }

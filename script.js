@@ -1,4 +1,6 @@
-// const h2 = document.createElement("h2");
-// h2.textContent = "This content added by JavaScript";
+const fontButton = document.getElementById("fontControl");
+const colorButton = document.getElementById("colorControl");
 
-// document.querySelector("body").appendChild(h2);
+function changeColor() {
+    
+}
